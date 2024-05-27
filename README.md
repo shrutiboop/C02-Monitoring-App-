@@ -1,6 +1,6 @@
-<a href="https://www.figma.com/design/mVmMjRxgRdoIOLbkKs1NcL/Wireframing-CIS3750?node-id=0%3A1&t=SpHmuAJ8XO5Fu5UQ-1">
 
-# C02-Monitoring-App-
+[Figma Wireframe](https://www.figma.com/design/mVmMjRxgRdoIOLbkKs1NcL/Wireframing-CIS3750?t=cmu8CBpjOEGYWOAW-1)
+# C02 Monitoring App Wireframe
 
 
 Carbon Dioxide Monitoring App
