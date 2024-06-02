@@ -1,7 +1,7 @@
 
 [Figma Wireframe](https://www.figma.com/design/mVmMjRxgRdoIOLbkKs1NcL/Wireframing-CIS3750?t=cmu8CBpjOEGYWOAW-1)
-# C02 Monitoring App Wireframe
-
+# C02 Monitoring App Prototype
+ ## Currently updating the prototype to meet my current standards. 
 
 Carbon Dioxide Monitoring App
 In our recent assignment, we embarked on a comprehensive user experience (UX) process to design an app that showcased the carbon dioxide (CO2) levels at various buildings within the University of Guelph. This project was not only an exercise in UX design but also a practical application of data visualization and communication for a real-world scenario.
